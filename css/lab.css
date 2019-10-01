@@ -1,7 +1,9 @@
 body {
-    background-color: #f0000f;
-      
-} 
-p {
-    border-style: dashed;
+    background-color: 244 178 147;
+    width: 300px;
+    height: 200px;
+    border: 20px dashed red;
+    padding: 40px;
+    margin: 40px;
+    
 }
